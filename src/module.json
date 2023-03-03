@@ -77,7 +77,7 @@
 	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/issues",
 	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases",
 	"download": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/download/v0.14.1/module.zip",
-	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json",
+	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/blob/master/src/module.json",
 	"readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/README.md",
 	"url": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet",
 	"flags": {
